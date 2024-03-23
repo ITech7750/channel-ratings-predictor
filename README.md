@@ -1,1 +1,1 @@
-# channel-ratings-predictor
+## <p class="center" id="title1" > **Нейронная сеть для построения прогноза рейтинга телевизионного канала**</p>
